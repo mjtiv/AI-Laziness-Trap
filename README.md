@@ -17,3 +17,6 @@ Of course, AI will also **encourage new forms of creativity** — interactive st
 And here’s the paradox: this post, warning about AI laziness… was written by AI.
 
 So — does that make me lazy too?
+
+## About
+This repo is part of an ongoing series of thought pieces on the future of AI utility, creativity, and culture. Contributions, comments, and discussions welcome.
